@@ -1,0 +1,31 @@
+
+.hide-sign-in {
+  }
+
+  .move-signup {
+    transition-delay: 0.2s ease-in;
+    transform: translateX(-100%);
+  }
+
+  .move-signup-greeting {
+    transform: translateX(70%);
+  }
+
+.move-signup {
+  transition-delay: 0.2s ease-in;
+  margin-left: -20% !important;
+}
+
+.blue-box {
+  transition: all 0.15s ease-in-out;
+  transform: translateX(0);
+}
+
+.box-move-out {
+  transform: translateX(-85%);
+
+}
+.box-move-out {
+  transform: translateX(-85%);
+
+}
